@@ -1,4 +1,4 @@
-# IOD
+# Data Science
 
 Hello everyone!
 This repository will document my journey in DataScience.
